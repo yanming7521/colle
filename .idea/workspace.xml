@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee1f39f4-0af3-4940-a293-5d80168474dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ceshi/St.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ceshi/Stri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ceshi/StriTist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Diandiqi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/File1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Mai.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Maipiao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Maipiao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Yichang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Yichang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Zhuxian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/arry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intert/Fuwu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intert/FuwuFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intert/Kehu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intert/KehuFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/luoma/Kuokao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/luoma/Luoma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/luoma/Qianzhu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sum/Fannum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sum/Twonum.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="colle" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/company/File1.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\colle" />
+        <option value="F:\colle\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q0eQgPNUbJWNYRI5EUTOdjfb5d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Application.Kuokao">
+    <configuration name="Fannum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sum.Fannum" />
+      <module name="colle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kuokao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="luoma.Kuokao" />
+      <module name="colle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="luoma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Luoma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="luoma.Luoma" />
+      <module name="colle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="luoma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Qianzhu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="luoma.Qianzhu" />
+      <module name="colle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="luoma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Twonum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sum.Twonum" />
+      <module name="colle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Twonum" />
+      <item itemvalue="Application.Fannum" />
+      <item itemvalue="Application.Luoma" />
+      <item itemvalue="Application.Qianzhu" />
+      <item itemvalue="Application.Kuokao" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Kuokao" />
+        <item itemvalue="Application.Qianzhu" />
+        <item itemvalue="Application.Luoma" />
+        <item itemvalue="Application.Fannum" />
+        <item itemvalue="Application.Twonum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee1f39f4-0af3-4940-a293-5d80168474dc" name="Default Changelist" comment="" />
+      <created>1616220919605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616220919605</updated>
+      <workItem from="1616220921013" duration="14207000" />
+      <workItem from="1616235569571" duration="778000" />
+      <workItem from="1616380485818" duration="1156000" />
+      <workItem from="1617871526143" duration="370000" />
+      <workItem from="1617873050235" duration="29000" />
+      <workItem from="1617873117141" duration="13000" />
+      <workItem from="1617873169064" duration="662000" />
+      <workItem from="1617873850657" duration="10157000" />
+      <workItem from="1617953225664" duration="12920000" />
+      <workItem from="1617968707145" duration="569000" />
+      <workItem from="1617969416325" duration="27000" />
+      <workItem from="1617970229100" duration="302000" />
+      <workItem from="1617970561559" duration="975000" />
+      <workItem from="1617974982011" duration="2137000" />
+      <workItem from="1618395047280" duration="7745000" />
+      <workItem from="1618495228511" duration="1330000" />
+      <workItem from="1618560369160" duration="13668000" />
+      <workItem from="1618576096661" duration="1700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="612" y="67" key="#xdebugger.evaluate" timestamp="1616381332296">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="612" y="67" key="#xdebugger.evaluate/0.0.1536.864@0.0.1536.864" timestamp="1616381332296" />
+    <state x="499" y="131" key="FileChooserDialogImpl" timestamp="1618575878244">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="131" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1618575878244" />
+    <state x="529" y="328" key="Github.CreateGistDialog" timestamp="1618576795499">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="529" y="328" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1618576795499" />
+    <state x="367" y="271" key="Github.ShareDialog" timestamp="1618577748308">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="367" y="271" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1618577748308" />
+    <state x="557" y="72" key="Github.UntrackedFilesDialog" timestamp="1618576845856">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="557" y="72" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1618576845856" />
+    <state width="1484" height="264" key="GridCell.Tab.0.bottom" timestamp="1618576077550">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1484" height="264" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618576077550" />
+    <state width="1484" height="264" key="GridCell.Tab.0.center" timestamp="1618576077550">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1484" height="264" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1618576077550" />
+    <state width="1484" height="264" key="GridCell.Tab.0.left" timestamp="1618576077550">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1484" height="264" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1618576077550" />
+    <state width="1484" height="264" key="GridCell.Tab.0.right" timestamp="1618576077550">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1484" height="264" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1618576077550" />
+    <state width="1484" height="236" key="GridCell.Tab.1.bottom" timestamp="1618573631890">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1484" height="236" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618573631890" />
+    <state width="1484" height="236" key="GridCell.Tab.1.center" timestamp="1618573631890">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1484" height="236" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1618573631890" />
+    <state width="1484" height="236" key="GridCell.Tab.1.left" timestamp="1618573631890">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1484" height="236" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1618573631890" />
+    <state width="1484" height="236" key="GridCell.Tab.1.right" timestamp="1618573631890">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1484" height="236" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1618573631890" />
+    <state x="191" y="0" key="SettingsEditor" timestamp="1618576749224">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="191" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1618576749224" />
+    <state x="305" y="308" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1617878422033">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="305" y="308" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1617878422033" />
+    <state x="218" y="104" width="1099" height="738" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1616380723434">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="218" y="104" width="1099" height="738" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1616380723434" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Zhuxian.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Zhuxian.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Zhuxian.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/colle$Zhuxian.ic" NAME="Zhuxian Coverage Results" MODIFIED="1616380762874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
+  </component>
+</project>
