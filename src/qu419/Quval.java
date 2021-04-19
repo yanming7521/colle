@@ -1,5 +1,7 @@
 package qu419;
 
+import java.util.Arrays;
+
 public class Quval {
     public static int removeElement(int[] nums, int val) {
     int j = 0;
@@ -22,9 +24,11 @@ public class Quval {
     int val = 2;
     int c = removeElement(ax, val);
     System.out.println(c);
-    for(int i =0;i<=c-1;i++)
+    int[] ac = new int[c];
+    for(int i = 0;i<c;i++)
     {
-        System.out.print(ax[i]+",");
+        ac[i] = ax[i];
     }
+    System.out.println(Arrays.toString(ac));
     }
 }
