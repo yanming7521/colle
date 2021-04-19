@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee1f39f4-0af3-4940-a293-5d80168474dc" name="Default Changelist" comment="yes！！">
-      <change afterPath="$PROJECT_DIR$/src/qu419/HuiWen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qu419/Quval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qu419/StringMuo.java" afterDir="false" />
+    <list default="true" id="ee1f39f4-0af3-4940-a293-5d80168474dc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/colle/com/company/File1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/colle/com/company/File1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/colle/com/company/Mai.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/colle/com/company/Mai.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/colle/com/company/arry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/colle/com/company/arry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/colle/intert/FuwuFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/colle/intert/FuwuFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/colle/intert/KehuFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/colle/intert/KehuFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/colle/luoma/Lu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/colle/luoma/Lu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/colle/luoma/Luoma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/colle/luoma/Luoma.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +210,7 @@
       <workItem from="1618674887342" duration="624000" />
       <workItem from="1618815857642" duration="289000" />
       <workItem from="1618816205086" duration="1841000" />
-      <workItem from="1618819203738" duration="9278000" />
+      <workItem from="1618819203738" duration="9555000" />
     </task>
     <task id="LOCAL-00001" summary="yes！！">
       <created>1618582573692</created>
@@ -236,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618673498591</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="4.19">
+      <created>1618830039850</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618830039850</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +254,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="yes！！" />
-    <option name="LAST_COMMIT_MESSAGE" value="yes！！" />
+    <MESSAGE value="4.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.19" />
   </component>
   <component name="WindowStateProjectService">
     <state x="261" y="9" key="#Inspections" timestamp="1618673448298">
@@ -268,10 +266,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="612" y="67" key="#xdebugger.evaluate/0.0.1536.864@0.0.1536.864" timestamp="1616381332296" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1618829983379">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1618830294240">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1618829983379" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1618830294240" />
     <state x="499" y="131" key="FileChooserDialogImpl" timestamp="1618575878244">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -320,6 +318,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1484" height="236" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1618824216780" />
+    <state x="597" y="90" key="RollbackChangesDialog" timestamp="1618830315322">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="597" y="90" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1618830315322" />
     <state x="191" y="0" key="SettingsEditor" timestamp="1618578444819">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -328,10 +330,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="305" y="308" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1617878422033" />
-    <state x="503" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618829913668">
+    <state x="503" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618830138135">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="503" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1618829913668" />
+    <state x="503" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1618830138135" />
     <state x="218" y="104" width="1099" height="738" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1616380723434">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
