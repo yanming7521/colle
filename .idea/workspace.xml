@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee1f39f4-0af3-4940-a293-5d80168474dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/yanminng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/render.experimental.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qu419/Shulie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qu419/Quval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qu419/Quval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arry417/Dedoble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arry417/Dedoble.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/src/arry417/Dedoble.java" />
+    </disable_hints>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -48,12 +56,15 @@
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
       <set>
+        <option value="https://github.com/yanming7521/colle.git" />
         <option value="https://github.com/yanming7521/ideacolle.git" />
       </set>
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/arry417/Dedoble.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/com/company/File1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/qu419/Shulie.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -62,6 +73,12 @@
         <option value="F:\colle\.idea" />
       </set>
     </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1q0eQgPNUbJWNYRI5EUTOdjfb5d" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -87,10 +104,11 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
   </component>
-  <component name="RunManager" selected="Application.Quval">
+  <component name="RunManager" selected="Application.Shulie">
     <configuration name="Dedoble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arry417.Dedoble" />
       <module name="colle" />
@@ -117,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kuokao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="luoma.Kuokao" />
+    <configuration name="Quval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qu419.Quval" />
       <module name="colle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="luoma.*" />
+          <option name="PATTERN" value="qu419.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,8 +148,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qu419.Quval" />
+    <configuration name="Shulie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qu419.Shulie" />
       <module name="colle" />
       <extension name="coverage">
         <pattern>
@@ -157,19 +175,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Kuokao" />
       <item itemvalue="Application.Dedoble" />
       <item itemvalue="Application.Quval" />
       <item itemvalue="Application.HuiWen" />
       <item itemvalue="Application.StringMuo" />
+      <item itemvalue="Application.Shulie" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shulie" />
         <item itemvalue="Application.Quval" />
         <item itemvalue="Application.Dedoble" />
         <item itemvalue="Application.StringMuo" />
         <item itemvalue="Application.HuiWen" />
-        <item itemvalue="Application.Kuokao" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +204,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\严明\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -218,7 +236,13 @@
       <workItem from="1618815857642" duration="289000" />
       <workItem from="1618816205086" duration="1841000" />
       <workItem from="1618819203738" duration="10408000" />
-      <workItem from="1618834200329" duration="584000" />
+      <workItem from="1618834200329" duration="732000" />
+      <workItem from="1618835758840" duration="1426000" />
+      <workItem from="1618973637523" duration="360000" />
+      <workItem from="1618974030362" duration="4050000" />
+      <workItem from="1618978197684" duration="17000" />
+      <workItem from="1618978304181" duration="605000" />
+      <workItem from="1618978934786" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="yes！！">
       <created>1618582573692</created>
@@ -248,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618830362154</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="4.19">
+      <created>1618834876977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618834876977</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,18 +304,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="4.19" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="261" y="9" key="#Inspections" timestamp="1618673448298">
+    <state x="261" y="9" key="#Inspections" timestamp="1618978068770">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="261" y="9" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1618673448298" />
+    <state x="261" y="9" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1618978068770" />
     <state x="612" y="67" key="#xdebugger.evaluate" timestamp="1616381332296">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="612" y="67" key="#xdebugger.evaluate/0.0.1536.864@0.0.1536.864" timestamp="1616381332296" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1618834865133">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1618834875893">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1618834865133" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1618834875893" />
     <state x="499" y="131" key="FileChooserDialogImpl" timestamp="1618575878244">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -301,46 +332,46 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="557" y="72" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1618578136423" />
-    <state width="741" height="264" key="GridCell.Tab.0.bottom" timestamp="1618834865165">
+    <state width="1484" height="212" key="GridCell.Tab.0.bottom" timestamp="1618978158279">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="741" height="264" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618834865165" />
-    <state width="741" height="264" key="GridCell.Tab.0.center" timestamp="1618834865165">
+    <state width="1484" height="212" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618978158279" />
+    <state width="1484" height="212" key="GridCell.Tab.0.center" timestamp="1618978158279">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="741" height="264" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1618834865165" />
-    <state width="741" height="264" key="GridCell.Tab.0.left" timestamp="1618834865165">
+    <state width="1484" height="212" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1618978158279" />
+    <state width="1484" height="212" key="GridCell.Tab.0.left" timestamp="1618978158279">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="741" height="264" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1618834865165" />
-    <state width="741" height="264" key="GridCell.Tab.0.right" timestamp="1618834865165">
+    <state width="1484" height="212" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1618978158279" />
+    <state width="1484" height="212" key="GridCell.Tab.0.right" timestamp="1618978158279">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="741" height="264" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1618834865165" />
-    <state width="1484" height="236" key="GridCell.Tab.1.bottom" timestamp="1618832472212">
+    <state width="1484" height="212" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1618978158279" />
+    <state width="1484" height="236" key="GridCell.Tab.1.bottom" timestamp="1618837932799">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618832472212" />
-    <state width="1484" height="236" key="GridCell.Tab.1.center" timestamp="1618832472212">
+    <state width="1484" height="236" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618837932799" />
+    <state width="1484" height="236" key="GridCell.Tab.1.center" timestamp="1618837932799">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1618832472212" />
-    <state width="1484" height="236" key="GridCell.Tab.1.left" timestamp="1618832472212">
+    <state width="1484" height="236" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1618837932799" />
+    <state width="1484" height="236" key="GridCell.Tab.1.left" timestamp="1618837932799">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1618832472212" />
-    <state width="1484" height="236" key="GridCell.Tab.1.right" timestamp="1618832472212">
+    <state width="1484" height="236" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1618837932799" />
+    <state width="1484" height="236" key="GridCell.Tab.1.right" timestamp="1618837932799">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1618832472212" />
+    <state width="1484" height="236" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1618837932799" />
     <state x="597" y="90" key="RollbackChangesDialog" timestamp="1618830315322">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="597" y="90" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1618830315322" />
-    <state x="191" y="0" key="SettingsEditor" timestamp="1618578444819">
+    <state x="320" y="0" key="SettingsEditor" timestamp="1618977888806">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="191" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1618578444819" />
+    <state x="320" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1618977888806" />
     <state x="261" y="101" key="Vcs.Push.Dialog.v2" timestamp="1618830376670">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

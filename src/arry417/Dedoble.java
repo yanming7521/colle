@@ -34,4 +34,5 @@ public class Dedoble {
         xl = arrayde(x2);
         show(xl,x2);
     }
+
 }
