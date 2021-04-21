@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee1f39f4-0af3-4940-a293-5d80168474dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/yanminng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/render.experimental.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qu419/Shulie.java" afterDir="false" />
+    <list default="true" id="ee1f39f4-0af3-4940-a293-5d80168474dc" name="Default Changelist" comment="4.20">
+      <change afterPath="$PROJECT_DIR$/src/lc421/Maxint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arry417/Dedoble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arry417/Dedoble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/qu419/Shulie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qu419/Shulie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Kotlin Class" />
         <option value="Class" />
       </list>
@@ -108,7 +107,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="experimental" />
   </component>
-  <component name="RunManager" selected="Application.Shulie">
+  <component name="RunManager" selected="Application.Maxint">
     <configuration name="Dedoble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arry417.Dedoble" />
       <module name="colle" />
@@ -122,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HuiWen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qu419.HuiWen" />
+    <configuration name="Maxint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc421.Maxint" />
       <module name="colle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qu419.*" />
+          <option name="PATTERN" value="lc421.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,17 +176,17 @@
     <list>
       <item itemvalue="Application.Dedoble" />
       <item itemvalue="Application.Quval" />
-      <item itemvalue="Application.HuiWen" />
       <item itemvalue="Application.StringMuo" />
       <item itemvalue="Application.Shulie" />
+      <item itemvalue="Application.Maxint" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maxint" />
         <item itemvalue="Application.Shulie" />
         <item itemvalue="Application.Quval" />
         <item itemvalue="Application.Dedoble" />
         <item itemvalue="Application.StringMuo" />
-        <item itemvalue="Application.HuiWen" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +241,11 @@
       <workItem from="1618974030362" duration="4050000" />
       <workItem from="1618978197684" duration="17000" />
       <workItem from="1618978304181" duration="605000" />
-      <workItem from="1618978934786" duration="600000" />
+      <workItem from="1618978934786" duration="5735000" />
+      <workItem from="1618988344930" duration="92000" />
+      <workItem from="1618988462556" duration="181000" />
+      <workItem from="1618988690622" duration="39000" />
+      <workItem from="1618988774717" duration="3407000" />
     </task>
     <task id="LOCAL-00001" summary="yes！！">
       <created>1618582573692</created>
@@ -279,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618834876977</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="4.20">
+      <created>1618979549230</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618979549230</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,7 +311,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="yes！！" />
     <MESSAGE value="4.19" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.19" />
+    <MESSAGE value="4.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.20" />
   </component>
   <component name="WindowStateProjectService">
     <state x="261" y="9" key="#Inspections" timestamp="1618978068770">
@@ -312,10 +323,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="612" y="67" key="#xdebugger.evaluate/0.0.1536.864@0.0.1536.864" timestamp="1616381332296" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1618834875893">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1618994441201">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1618834875893" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1618994441201" />
     <state x="499" y="131" key="FileChooserDialogImpl" timestamp="1618575878244">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -332,38 +343,38 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="557" y="72" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1618578136423" />
-    <state width="1484" height="212" key="GridCell.Tab.0.bottom" timestamp="1618978158279">
+    <state width="1484" height="212" key="GridCell.Tab.0.bottom" timestamp="1618994441236">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="212" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618978158279" />
-    <state width="1484" height="212" key="GridCell.Tab.0.center" timestamp="1618978158279">
+    <state width="1484" height="212" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618994441236" />
+    <state width="1484" height="212" key="GridCell.Tab.0.center" timestamp="1618994441236">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="212" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1618978158279" />
-    <state width="1484" height="212" key="GridCell.Tab.0.left" timestamp="1618978158279">
+    <state width="1484" height="212" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1618994441236" />
+    <state width="1484" height="212" key="GridCell.Tab.0.left" timestamp="1618994441236">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="212" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1618978158279" />
-    <state width="1484" height="212" key="GridCell.Tab.0.right" timestamp="1618978158279">
+    <state width="1484" height="212" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1618994441236" />
+    <state width="1484" height="212" key="GridCell.Tab.0.right" timestamp="1618994441236">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="212" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1618978158279" />
-    <state width="1484" height="236" key="GridCell.Tab.1.bottom" timestamp="1618837932799">
+    <state width="1484" height="212" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1618994441236" />
+    <state width="1484" height="236" key="GridCell.Tab.1.bottom" timestamp="1618992624366">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618837932799" />
-    <state width="1484" height="236" key="GridCell.Tab.1.center" timestamp="1618837932799">
+    <state width="1484" height="236" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618992624366" />
+    <state width="1484" height="236" key="GridCell.Tab.1.center" timestamp="1618992624366">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1618837932799" />
-    <state width="1484" height="236" key="GridCell.Tab.1.left" timestamp="1618837932799">
+    <state width="1484" height="236" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1618992624366" />
+    <state width="1484" height="236" key="GridCell.Tab.1.left" timestamp="1618992624366">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1618837932799" />
-    <state width="1484" height="236" key="GridCell.Tab.1.right" timestamp="1618837932799">
+    <state width="1484" height="236" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1618992624366" />
+    <state width="1484" height="236" key="GridCell.Tab.1.right" timestamp="1618992624366">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1618837932799" />
+    <state width="1484" height="236" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1618992624366" />
     <state x="597" y="90" key="RollbackChangesDialog" timestamp="1618830315322">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -388,10 +399,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="218" y="104" width="1099" height="738" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1616380723434" />
-    <state x="347" y="0" width="840" height="862" key="search.everywhere.popup" timestamp="1618819882314">
+    <state x="347" y="0" width="840" height="862" key="search.everywhere.popup" timestamp="1618991842685">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="347" y="0" width="840" height="862" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1618819882314" />
+    <state x="347" y="0" width="840" height="862" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1618991842685" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,5 +1,7 @@
 package qu419;
 
+import java.util.Arrays;
+
 public class Shulie {
     public static String countAndSay(int n) {
         // 递归终止条件
