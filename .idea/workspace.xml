@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee1f39f4-0af3-4940-a293-5d80168474dc" name="Default Changelist" comment="4.20">
-      <change afterPath="$PROJECT_DIR$/src/lc421/Maxint.java" afterDir="false" />
+    <list default="true" id="ee1f39f4-0af3-4940-a293-5d80168474dc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qu419/Shulie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qu419/Shulie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +243,7 @@
       <workItem from="1618988344930" duration="92000" />
       <workItem from="1618988462556" duration="181000" />
       <workItem from="1618988690622" duration="39000" />
-      <workItem from="1618988774717" duration="3407000" />
+      <workItem from="1618988774717" duration="3650000" />
     </task>
     <task id="LOCAL-00001" summary="yes！！">
       <created>1618582573692</created>
@@ -289,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618979549230</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="4.21">
+      <created>1618994567780</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618994567780</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,7 +317,8 @@
     <MESSAGE value="yes！！" />
     <MESSAGE value="4.19" />
     <MESSAGE value="4.20" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.20" />
+    <MESSAGE value="4.21" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.21" />
   </component>
   <component name="WindowStateProjectService">
     <state x="261" y="9" key="#Inspections" timestamp="1618978068770">
@@ -323,10 +329,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="612" y="67" key="#xdebugger.evaluate/0.0.1536.864@0.0.1536.864" timestamp="1616381332296" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1618994441201">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1618994566291">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1618994441201" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1618994566291" />
     <state x="499" y="131" key="FileChooserDialogImpl" timestamp="1618575878244">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
