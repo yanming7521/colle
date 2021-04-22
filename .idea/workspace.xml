@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee1f39f4-0af3-4940-a293-5d80168474dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lc421/Eque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string422/Strend.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,15 +105,15 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="experimental" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Maxint">
-    <configuration name="Dedoble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arry417.Dedoble" />
+  <component name="RunManager" selected="Application.Strend">
+    <configuration name="Eque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc421.Eque" />
       <module name="colle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arry417.*" />
+          <option name="PATTERN" value="lc421.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMuo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qu419.StringMuo" />
+    <configuration name="Strend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string422.Strend" />
       <module name="colle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qu419.*" />
+          <option name="PATTERN" value="string422.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,19 +174,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Dedoble" />
       <item itemvalue="Application.Quval" />
-      <item itemvalue="Application.StringMuo" />
       <item itemvalue="Application.Shulie" />
       <item itemvalue="Application.Maxint" />
+      <item itemvalue="Application.Eque" />
+      <item itemvalue="Application.Strend" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Strend" />
+        <item itemvalue="Application.Eque" />
         <item itemvalue="Application.Maxint" />
         <item itemvalue="Application.Shulie" />
         <item itemvalue="Application.Quval" />
-        <item itemvalue="Application.Dedoble" />
-        <item itemvalue="Application.StringMuo" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +245,11 @@
       <workItem from="1618988344930" duration="92000" />
       <workItem from="1618988462556" duration="181000" />
       <workItem from="1618988690622" duration="39000" />
-      <workItem from="1618988774717" duration="3650000" />
+      <workItem from="1618988774717" duration="4212000" />
+      <workItem from="1618995264147" duration="315000" />
+      <workItem from="1618999364381" duration="3813000" />
+      <workItem from="1619073685979" duration="86000" />
+      <workItem from="1619090455904" duration="2488000" />
     </task>
     <task id="LOCAL-00001" summary="yes！！">
       <created>1618582573692</created>
@@ -294,11 +300,42 @@
       <option name="project" value="LOCAL" />
       <updated>1618994567780</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="4.21">
+      <created>1618994617418</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618994617418</updated>
+    </task>
+    <task id="LOCAL-00009" summary="4.21">
+      <created>1618994654077</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1618994654077</updated>
+    </task>
+    <task id="LOCAL-00010" summary="4.21">
+      <created>1618994765356</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1618994765356</updated>
+    </task>
+    <task id="LOCAL-00011" summary="4.21">
+      <created>1618994851962</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1618994851962</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -314,6 +351,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="yes！！" />
     <MESSAGE value="4.19" />
     <MESSAGE value="4.20" />
@@ -329,10 +367,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="612" y="67" key="#xdebugger.evaluate/0.0.1536.864@0.0.1536.864" timestamp="1616381332296" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1618994764292">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1618994850954">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1618994764292" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1618994850954" />
     <state x="499" y="131" key="FileChooserDialogImpl" timestamp="1618575878244">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -349,58 +387,58 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="557" y="72" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1618578136423" />
-    <state width="741" height="212" key="GridCell.Tab.0.bottom" timestamp="1618994815484">
+    <state width="1484" height="212" key="GridCell.Tab.0.bottom" timestamp="1619093030127">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="741" height="212" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618994815484" />
-    <state width="741" height="212" key="GridCell.Tab.0.center" timestamp="1618994815484">
+    <state width="1484" height="212" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619093030127" />
+    <state width="1484" height="212" key="GridCell.Tab.0.center" timestamp="1619093030126">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="741" height="212" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1618994815484" />
-    <state width="741" height="212" key="GridCell.Tab.0.left" timestamp="1618994815484">
+    <state width="1484" height="212" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1619093030126" />
+    <state width="1484" height="212" key="GridCell.Tab.0.left" timestamp="1619093030126">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="741" height="212" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1618994815484" />
-    <state width="741" height="212" key="GridCell.Tab.0.right" timestamp="1618994815484">
+    <state width="1484" height="212" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1619093030126" />
+    <state width="1484" height="212" key="GridCell.Tab.0.right" timestamp="1619093030127">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="741" height="212" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1618994815484" />
-    <state width="1484" height="236" key="GridCell.Tab.1.bottom" timestamp="1618992624366">
+    <state width="1484" height="212" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1619093030127" />
+    <state width="1484" height="236" key="GridCell.Tab.1.bottom" timestamp="1619004841841">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618992624366" />
-    <state width="1484" height="236" key="GridCell.Tab.1.center" timestamp="1618992624366">
+    <state width="1484" height="236" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619004841841" />
+    <state width="1484" height="236" key="GridCell.Tab.1.center" timestamp="1619004841841">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1618992624366" />
-    <state width="1484" height="236" key="GridCell.Tab.1.left" timestamp="1618992624366">
+    <state width="1484" height="236" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1619004841841" />
+    <state width="1484" height="236" key="GridCell.Tab.1.left" timestamp="1619004841841">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1618992624366" />
-    <state width="1484" height="236" key="GridCell.Tab.1.right" timestamp="1618992624366">
+    <state width="1484" height="236" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1619004841841" />
+    <state width="1484" height="236" key="GridCell.Tab.1.right" timestamp="1619004841841">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1618992624366" />
+    <state width="1484" height="236" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1619004841841" />
     <state x="597" y="90" key="RollbackChangesDialog" timestamp="1618830315322">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="597" y="90" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1618830315322" />
-    <state x="320" y="0" key="SettingsEditor" timestamp="1618977888806">
+    <state x="320" y="0" key="SettingsEditor" timestamp="1618995576108">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="320" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1618977888806" />
-    <state x="261" y="101" key="Vcs.Push.Dialog.v2" timestamp="1618830376670">
+    <state x="320" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1618995576108" />
+    <state x="261" y="101" key="Vcs.Push.Dialog.v2" timestamp="1618995060389">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="261" y="101" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1618830376670" />
+    <state x="261" y="101" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1618995060389" />
     <state x="305" y="308" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1617878422033">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="305" y="308" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1617878422033" />
-    <state x="503" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618994676102">
+    <state x="503" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618994899995">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="503" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1618994676102" />
+    <state x="503" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1618994899995" />
     <state x="218" y="104" width="1099" height="738" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1616380723434">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
