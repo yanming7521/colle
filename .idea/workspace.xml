@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee1f39f4-0af3-4940-a293-5d80168474dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lc421/Eque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string422/Strend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/add423/AddOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/add423/Qrst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/add423/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string422/Strend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string422/Strend.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +109,20 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Strend">
+  <component name="RunManager" selected="Application.Qrst">
+    <configuration name="AddOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="add423.AddOne" />
+      <module name="colle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="add423.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Eque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lc421.Eque" />
       <module name="colle" />
@@ -121,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maxint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc421.Maxint" />
+    <configuration name="Qrst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="add423.Qrst" />
       <module name="colle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lc421.*" />
+          <option name="PATTERN" value="add423.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,25 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qu419.Quval" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="add423.Solution" />
       <module name="colle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qu419.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Shulie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qu419.Shulie" />
-      <module name="colle" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="qu419.*" />
+          <option name="PATTERN" value="add423.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,19 +176,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Quval" />
-      <item itemvalue="Application.Shulie" />
-      <item itemvalue="Application.Maxint" />
       <item itemvalue="Application.Eque" />
       <item itemvalue="Application.Strend" />
+      <item itemvalue="Application.AddOne" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Qrst" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Qrst" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.AddOne" />
         <item itemvalue="Application.Strend" />
         <item itemvalue="Application.Eque" />
-        <item itemvalue="Application.Maxint" />
-        <item itemvalue="Application.Shulie" />
-        <item itemvalue="Application.Quval" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +251,10 @@
       <workItem from="1618995264147" duration="315000" />
       <workItem from="1618999364381" duration="3813000" />
       <workItem from="1619073685979" duration="86000" />
-      <workItem from="1619090455904" duration="2488000" />
+      <workItem from="1619090455904" duration="4635000" />
+      <workItem from="1619101273472" duration="86000" />
+      <workItem from="1619148491179" duration="10212000" />
+      <workItem from="1619188393214" duration="1425000" />
     </task>
     <task id="LOCAL-00001" summary="yes！！">
       <created>1618582573692</created>
@@ -328,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618994851962</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="4.22">
+      <created>1619093055596</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1619093055596</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,7 +368,8 @@
     <MESSAGE value="4.19" />
     <MESSAGE value="4.20" />
     <MESSAGE value="4.21" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.21" />
+    <MESSAGE value="4.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.22" />
   </component>
   <component name="WindowStateProjectService">
     <state x="261" y="9" key="#Inspections" timestamp="1618978068770">
@@ -367,10 +380,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="612" y="67" key="#xdebugger.evaluate/0.0.1536.864@0.0.1536.864" timestamp="1616381332296" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1618994850954">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1619093054438">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1618994850954" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1619093054438" />
     <state x="499" y="131" key="FileChooserDialogImpl" timestamp="1618575878244">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -387,38 +400,38 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="557" y="72" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1618578136423" />
-    <state width="1484" height="212" key="GridCell.Tab.0.bottom" timestamp="1619093030127">
+    <state width="1484" height="236" key="GridCell.Tab.0.bottom" timestamp="1619189820308">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="212" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619093030127" />
-    <state width="1484" height="212" key="GridCell.Tab.0.center" timestamp="1619093030126">
+    <state width="1484" height="236" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619189820308" />
+    <state width="1484" height="236" key="GridCell.Tab.0.center" timestamp="1619189820308">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="212" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1619093030126" />
-    <state width="1484" height="212" key="GridCell.Tab.0.left" timestamp="1619093030126">
+    <state width="1484" height="236" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1619189820308" />
+    <state width="1484" height="236" key="GridCell.Tab.0.left" timestamp="1619189820308">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="212" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1619093030126" />
-    <state width="1484" height="212" key="GridCell.Tab.0.right" timestamp="1619093030127">
+    <state width="1484" height="236" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1619189820308" />
+    <state width="1484" height="236" key="GridCell.Tab.0.right" timestamp="1619189820308">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="212" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1619093030127" />
-    <state width="1484" height="236" key="GridCell.Tab.1.bottom" timestamp="1619004841841">
+    <state width="1484" height="236" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1619189820308" />
+    <state width="1484" height="236" key="GridCell.Tab.1.bottom" timestamp="1619189820308">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619004841841" />
-    <state width="1484" height="236" key="GridCell.Tab.1.center" timestamp="1619004841841">
+    <state width="1484" height="236" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619189820308" />
+    <state width="1484" height="236" key="GridCell.Tab.1.center" timestamp="1619189820308">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1619004841841" />
-    <state width="1484" height="236" key="GridCell.Tab.1.left" timestamp="1619004841841">
+    <state width="1484" height="236" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1619189820308" />
+    <state width="1484" height="236" key="GridCell.Tab.1.left" timestamp="1619189820308">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1619004841841" />
-    <state width="1484" height="236" key="GridCell.Tab.1.right" timestamp="1619004841841">
+    <state width="1484" height="236" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1619189820308" />
+    <state width="1484" height="236" key="GridCell.Tab.1.right" timestamp="1619189820308">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1619004841841" />
+    <state width="1484" height="236" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1619189820308" />
     <state x="597" y="90" key="RollbackChangesDialog" timestamp="1618830315322">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -427,10 +440,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="320" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1618995576108" />
-    <state x="261" y="101" key="Vcs.Push.Dialog.v2" timestamp="1618995060389">
+    <state x="261" y="101" key="Vcs.Push.Dialog.v2" timestamp="1619189981311">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="261" y="101" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1618995060389" />
+    <state x="261" y="101" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1619189981311" />
     <state x="305" y="308" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1617878422033">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -465,6 +478,16 @@
           <url>file://$PROJECT_DIR$/src/com/company/Zhuxian.java</url>
           <line>27</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/add423/Qrst.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/add423/Qrst.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

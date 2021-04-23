@@ -1,5 +1,7 @@
 package string422;
 
+import java.util.Scanner;
+
 public class Strend {
     public int lengthOfLastWord(String s) {
     int ex = s.length()-1;
@@ -20,7 +22,9 @@ public class Strend {
 
     public static void main(String[] args) {
         Strend en = new Strend();
-        int size = en.lengthOfLastWord("123 13");
+        Scanner in = new Scanner(System.in);
+        String next = in.nextLine();
+        int size = en.lengthOfLastWord(next);
         System.out.println(size);
     }
 }
