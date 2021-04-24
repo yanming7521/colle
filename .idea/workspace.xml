@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee1f39f4-0af3-4940-a293-5d80168474dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/add423/AddOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/add423/Qrst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/add423/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lou424/Plou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lou424/Shulie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string422/Strend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string422/Strend.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +107,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Qrst">
+  <component name="RunManager" selected="Application.Shulie">
     <configuration name="AddOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="add423.AddOne" />
       <module name="colle" />
@@ -123,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Eque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc421.Eque" />
+    <configuration name="Plou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lou424.Plou" />
       <module name="colle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lc421.*" />
+          <option name="PATTERN" value="lou424.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,6 +147,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Shulie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lou424.Shulie" />
+      <module name="colle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lou424.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="add423.Solution" />
       <module name="colle" />
@@ -162,33 +173,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string422.Strend" />
-      <module name="colle" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string422.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Eque" />
-      <item itemvalue="Application.Strend" />
       <item itemvalue="Application.AddOne" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Qrst" />
+      <item itemvalue="Application.Plou" />
+      <item itemvalue="Application.Shulie" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shulie" />
+        <item itemvalue="Application.Plou" />
         <item itemvalue="Application.Qrst" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.AddOne" />
-        <item itemvalue="Application.Strend" />
-        <item itemvalue="Application.Eque" />
       </list>
     </recent_temporary>
   </component>
@@ -255,6 +253,7 @@
       <workItem from="1619101273472" duration="86000" />
       <workItem from="1619148491179" duration="10212000" />
       <workItem from="1619188393214" duration="1425000" />
+      <workItem from="1619260343457" duration="3612000" />
     </task>
     <task id="LOCAL-00001" summary="yes！！">
       <created>1618582573692</created>
@@ -380,10 +379,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="612" y="67" key="#xdebugger.evaluate/0.0.1536.864@0.0.1536.864" timestamp="1616381332296" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1619093054438">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1619189989364">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1619093054438" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1619189989364" />
     <state x="499" y="131" key="FileChooserDialogImpl" timestamp="1618575878244">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -400,22 +399,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="557" y="72" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1618578136423" />
-    <state width="1484" height="236" key="GridCell.Tab.0.bottom" timestamp="1619189820308">
+    <state width="1484" height="212" key="GridCell.Tab.0.bottom" timestamp="1619262726564">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619189820308" />
-    <state width="1484" height="236" key="GridCell.Tab.0.center" timestamp="1619189820308">
+    <state width="1484" height="212" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619262726564" />
+    <state width="1484" height="212" key="GridCell.Tab.0.center" timestamp="1619262726564">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1619189820308" />
-    <state width="1484" height="236" key="GridCell.Tab.0.left" timestamp="1619189820308">
+    <state width="1484" height="212" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1619262726564" />
+    <state width="1484" height="212" key="GridCell.Tab.0.left" timestamp="1619262726564">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1619189820308" />
-    <state width="1484" height="236" key="GridCell.Tab.0.right" timestamp="1619189820308">
+    <state width="1484" height="212" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1619262726564" />
+    <state width="1484" height="212" key="GridCell.Tab.0.right" timestamp="1619262726564">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1484" height="236" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1619189820308" />
+    <state width="1484" height="212" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1619262726564" />
     <state width="1484" height="236" key="GridCell.Tab.1.bottom" timestamp="1619189820308">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -440,10 +439,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="320" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1618995576108" />
-    <state x="261" y="101" key="Vcs.Push.Dialog.v2" timestamp="1619189981311">
+    <state x="261" y="101" key="Vcs.Push.Dialog.v2" timestamp="1619190003426">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="261" y="101" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1619189981311" />
+    <state x="261" y="101" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1619190003426" />
     <state x="305" y="308" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1617878422033">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
