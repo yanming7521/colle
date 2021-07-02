@@ -16,7 +16,7 @@ public class Twonum {
     }
     public static void main(String[] args) {
         Twonum t = new Twonum();
-        int[] nums = new int[]{3, 2, 4};
+        int[] nums = new int[]{2, 7, 4, 75, 1, 5};
         int[] arr;
         arr = t.twosum(nums, 6);
         System.out.print("[");
